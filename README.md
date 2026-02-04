@@ -83,10 +83,6 @@ The system uses a **relational database** with tables such as:
 
 ---
 
-## ⚠️ Disclaimer
-This project is developed for **educational purposes only** and should not be used as a real-world law enforcement system without proper validation and legal compliance.
-
----
 
 ## 📚 Conclusion
 The Fake Number Plate Registration and Traffic Rules Violation System demonstrates effective use of **DBMS and automation concepts** to improve traffic management and enforcement efficiency. It serves as a strong academic project and portfolio addition.
